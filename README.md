@@ -1,2 +1,4 @@
 # odin-recipes
-Going to build a basic recipe website using html skills
+A basic recipe website using foundational html skills
+
+Link: https://janlee0602.github.io/odin-recipes/
