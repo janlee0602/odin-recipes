@@ -1,0 +1,39 @@
+body {
+    background-color: #F5F5F5;
+    
+    }   
+
+h1 {
+    color: #9bd17c;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+/* centering image for the front page */
+
+img {
+    display: block;
+    height: auto;
+    width: 800px; 
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+p, h2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #362f2f;
+
+}
+
+p, h3 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #9bd17c;
+
+}
+
+p, h4 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #555050;
+
+}
